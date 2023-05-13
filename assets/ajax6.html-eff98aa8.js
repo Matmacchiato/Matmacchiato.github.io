@@ -1,0 +1,1 @@
+const a=JSON.parse('{"key":"v-09c4dc77","path":"/docs/ajax/ajax6.html","title":"七、Axios发送Ajax请求","lang":"en-US","frontmatter":{},"headers":[],"git":{},"filePathRelative":"docs/ajax/ajax6.md"}');export{a as data};

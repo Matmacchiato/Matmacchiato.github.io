@@ -1,0 +1,1 @@
+const a=JSON.parse('{"key":"v-268a8e86","path":"/docs/ajax/ajax10.html","title":"十一、CORS（官方解决跨域方法）","lang":"en-US","frontmatter":{},"headers":[],"git":{},"filePathRelative":"docs/ajax/ajax10.md"}');export{a as data};

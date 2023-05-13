@@ -1,0 +1,1 @@
+const a=JSON.parse('{"key":"v-274ff2dd","path":"/docs/base/javascript/storage.html","title":"说一说cookie、sessionStorage、localStorage区别？","lang":"en-US","frontmatter":{},"headers":[],"git":{},"filePathRelative":"docs/base/javascript/storage.md"}');export{a as data};

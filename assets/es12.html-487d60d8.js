@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-3ac64e70","path":"/docs/es6/es12.html","title":"十二、Promise","lang":"en-US","frontmatter":{},"headers":[],"git":{},"filePathRelative":"docs/es6/es12.md"}');export{e as data};

@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-9639da1a","path":"/docs/es6/es6.html","title":"六、对象的扩展","lang":"en-US","frontmatter":{},"headers":[{"level":2,"title":"属性的简洁表示","slug":"属性的简洁表示","link":"#属性的简洁表示","children":[]}],"git":{},"filePathRelative":"docs/es6/es6.md"}');export{e as data};

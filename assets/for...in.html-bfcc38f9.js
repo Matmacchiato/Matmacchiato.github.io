@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-24e39b20","path":"/docs/base/javascript/for...in.html","title":"for...in、for...of 有什么区别？","lang":"en-US","frontmatter":{},"headers":[{"level":3,"title":"出题目的","slug":"出题目的","link":"#出题目的","children":[]}],"git":{},"filePathRelative":"docs/base/javascript/for...in.md"}');export{e as data};

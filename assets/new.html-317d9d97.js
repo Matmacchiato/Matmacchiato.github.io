@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-59fd3f85","path":"/docs/base/vue/new.html","title":"history模式怎么解决刷新404的问题?","lang":"en-US","frontmatter":{},"headers":[],"git":{},"filePathRelative":"docs/base/vue/new.md"}');export{e as data};

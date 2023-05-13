@@ -1,0 +1,1 @@
+const a=JSON.parse('{"key":"v-09f1673c","path":"/docs/base/javascript/async.html","title":"async和await解决什么问题?","lang":"en-US","frontmatter":{},"headers":[],"git":{},"filePathRelative":"docs/base/javascript/async.md"}');export{a as data};

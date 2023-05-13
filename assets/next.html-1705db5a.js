@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-64bdd185","path":"/docs/base/html/next.html","title":"选择器的优先级？","lang":"en-US","frontmatter":{},"headers":[],"git":{},"filePathRelative":"docs/base/html/next.md"}');export{t as data};

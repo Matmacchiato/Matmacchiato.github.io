@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-2bb05c5f","path":"/docs/base/vue/knowzhiling.html","title":"知道哪些指令","lang":"en-US","frontmatter":{},"headers":[],"git":{},"filePathRelative":"docs/base/vue/knowzhiling.md"}');export{e as data};

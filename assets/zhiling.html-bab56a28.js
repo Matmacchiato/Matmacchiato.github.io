@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-572e8c54","path":"/docs/base/vue/zhiling.html","title":"Vue的自定义指令","lang":"en-US","frontmatter":{},"headers":[],"git":{},"filePathRelative":"docs/base/vue/zhiling.md"}');export{e as data};

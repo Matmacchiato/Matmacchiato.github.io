@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-2f46b3e9","path":"/docs/base/javascript/string.html","title":"JavaScript中基本的数据类型有哪些？","lang":"en-US","frontmatter":{},"headers":[],"git":{},"filePathRelative":"docs/base/javascript/string.md"}');export{t as data};

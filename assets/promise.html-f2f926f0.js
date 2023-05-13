@@ -1,0 +1,1 @@
+const a=JSON.parse('{"key":"v-8a20bf86","path":"/docs/base/javascript/promise.html","title":"promise有几种状态，会不会改变","lang":"en-US","frontmatter":{},"headers":[],"git":{},"filePathRelative":"docs/base/javascript/promise.md"}');export{a as data};

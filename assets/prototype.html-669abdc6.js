@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-54839654","path":"/docs/base/javascript/prototype.html","title":"原型和原型链","lang":"en-US","frontmatter":{},"headers":[{"level":3,"title":"原型","slug":"原型","link":"#原型","children":[]},{"level":3,"title":"原型链","slug":"原型链","link":"#原型链","children":[]}],"git":{},"filePathRelative":"docs/base/javascript/prototype.md"}');export{e as data};

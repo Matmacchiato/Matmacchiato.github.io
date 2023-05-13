@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-039b3bb9","path":"/docs/node/2.html","title":"认识命令行","lang":"en-US","frontmatter":{},"headers":[{"level":2,"title":"1. 命令的结构","slug":"_1-命令的结构","link":"#_1-命令的结构","children":[]}],"git":{},"filePathRelative":"docs/node/2.md"}');export{e as data};

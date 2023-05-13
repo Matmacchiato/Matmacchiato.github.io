@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-3d8f99a8","path":"/docs/base/vue/keep-alive.html","title":"对keep-alive的理解","lang":"en-US","frontmatter":{},"headers":[],"git":{},"filePathRelative":"docs/base/vue/keep-alive.md"}');export{e as data};

@@ -1,0 +1,1 @@
+const a=JSON.parse('{"key":"v-68803526","path":"/docs/base/javascript/async_data.html","title":"两个异步请求数据操作怎么合并","lang":"en-US","frontmatter":{},"headers":[],"git":{},"filePathRelative":"docs/base/javascript/async_data.md"}');export{a as data};

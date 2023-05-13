@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-0816888d","path":"/docs/base/html/block.html","title":"块级元素、行内元素","lang":"en-US","frontmatter":{},"headers":[],"git":{},"filePathRelative":"docs/base/html/block.md"}');export{t as data};

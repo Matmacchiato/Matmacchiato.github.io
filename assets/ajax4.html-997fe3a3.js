@@ -1,0 +1,1 @@
+const a=JSON.parse('{"key":"v-065b2b39","path":"/docs/ajax/ajax4.html","title":"五、nodemon自动重启工具","lang":"en-US","frontmatter":{},"headers":[],"git":{},"filePathRelative":"docs/ajax/ajax4.md"}');export{a as data};

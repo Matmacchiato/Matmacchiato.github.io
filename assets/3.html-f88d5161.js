@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-05501458","path":"/docs/node/3.html","title":"node.js编码注意事项","lang":"en-US","frontmatter":{},"headers":[],"git":{},"filePathRelative":"docs/node/3.md"}');export{e as data};

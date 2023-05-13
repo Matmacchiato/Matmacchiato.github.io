@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-4199b0ec","path":"/docs/es6/es10.html","title":"十、迭代器Iterator","lang":"en-US","frontmatter":{},"headers":[],"git":{},"filePathRelative":"docs/es6/es10.md"}');export{e as data};

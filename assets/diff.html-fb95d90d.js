@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-d8dc55b0","path":"/docs/base/vue/diff.html","title":"Vue的diff算法","lang":"en-US","frontmatter":{},"headers":[],"git":{},"filePathRelative":"docs/base/vue/diff.md"}');export{e as data};

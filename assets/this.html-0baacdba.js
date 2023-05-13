@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-739a01bc","path":"/docs/base/javascript/this.html","title":"this不同场景，如何取值？","lang":"en-US","frontmatter":{},"headers":[],"git":{},"filePathRelative":"docs/base/javascript/this.md"}');export{t as data};

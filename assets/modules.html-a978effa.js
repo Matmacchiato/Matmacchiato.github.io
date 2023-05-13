@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-332f5804","path":"/docs/base/vue/modules.html","title":"Vue路由模式","lang":"en-US","frontmatter":{},"headers":[],"git":{},"filePathRelative":"docs/base/vue/modules.md"}');export{e as data};

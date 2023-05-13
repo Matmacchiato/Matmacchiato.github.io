@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-2e2dd25d","path":"/docs/base/css/box.html","title":"对盒子模型的理解","lang":"en-US","frontmatter":{},"headers":[],"git":{},"filePathRelative":"docs/base/css/box.md"}');export{e as data};

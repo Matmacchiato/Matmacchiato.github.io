@@ -1,0 +1,11 @@
+import{_ as n,p as s,q as a,Z as e}from"./framework-87c4c4c1.js";const t={},l=e(`<hr><ol><li>安装插件</li></ol><div class="language-javascript line-numbers-mode" data-ext="js"><pre class="language-javascript"><code>npm install webpack<span class="token operator">-</span>bundle<span class="token operator">-</span>analyzer
+</code></pre><div class="line-numbers" aria-hidden="true"><div class="line-number"></div></div></div><ol start="2"><li>在 vue.config.js 文件中引入</li></ol><div class="language-javascript line-numbers-mode" data-ext="js"><pre class="language-javascript"><code><span class="token keyword">const</span> BundleAnalyzer <span class="token operator">=</span> <span class="token function">require</span><span class="token punctuation">(</span><span class="token string">&#39;webpack-bundle-analyzer&#39;</span><span class="token punctuation">)</span><span class="token punctuation">.</span>BundleAnalzerPlugin<span class="token punctuation">;</span>
+
+module<span class="token punctuation">.</span>exports <span class="token operator">=</span> <span class="token punctuation">{</span>
+  <span class="token function-variable function">configureWebpack</span><span class="token operator">:</span><span class="token parameter">config</span><span class="token operator">=&gt;</span><span class="token punctuation">{</span>
+    config<span class="token punctuation">.</span>plugins<span class="token punctuation">.</span><span class="token function">push</span><span class="token punctuation">(</span>
+      <span class="token keyword">new</span> <span class="token class-name">BundleAnalyzer</span><span class="token punctuation">(</span><span class="token punctuation">)</span>
+    <span class="token punctuation">)</span>
+  <span class="token punctuation">}</span>
+<span class="token punctuation">}</span>
+</code></pre><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><ol start="3"><li>执行npm run build 就会打开一个可视化界面</li></ol>`,6),p=[l];function c(o,i){return s(),a("div",null,p)}const r=n(t,[["render",c],["__file","121502.html.vue"]]);export{r as default};

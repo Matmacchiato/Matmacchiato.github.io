@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-8f66779e","path":"/docs/es6/es8.html","title":"八、Set和Map","lang":"en-US","frontmatter":{},"headers":[{"level":2,"title":"Set","slug":"set","link":"#set","children":[]},{"level":2,"title":"Map","slug":"map","link":"#map","children":[]}],"git":{},"filePathRelative":"docs/es6/es8.md"}');export{e as data};

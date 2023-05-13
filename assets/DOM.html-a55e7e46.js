@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-7b974143","path":"/docs/base/vue/DOM.html","title":"Vue怎么获取DOM","lang":"en-US","frontmatter":{},"headers":[],"git":{},"filePathRelative":"docs/base/vue/DOM.md"}');export{e as data};

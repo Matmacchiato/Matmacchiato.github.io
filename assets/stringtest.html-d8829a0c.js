@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-2a6e7297","path":"/docs/base/javascript/stringtest.html","title":"怎么判断数据类型？","lang":"en-US","frontmatter":{},"headers":[],"git":{},"filePathRelative":"docs/base/javascript/stringtest.md"}');export{t as data};

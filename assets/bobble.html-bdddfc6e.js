@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-5c914547","path":"/docs/base/vue/bobble.html","title":"Vue阻止事件冒泡","lang":"en-US","frontmatter":{},"headers":[],"git":{},"filePathRelative":"docs/base/vue/bobble.md"}');export{e as data};

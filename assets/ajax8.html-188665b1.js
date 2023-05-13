@@ -1,0 +1,1 @@
+const a=JSON.parse('{"key":"v-0d2e8db5","path":"/docs/ajax/ajax8.html","title":"九、跨域","lang":"en-US","frontmatter":{},"headers":[],"git":{},"filePathRelative":"docs/ajax/ajax8.md"}');export{a as data};

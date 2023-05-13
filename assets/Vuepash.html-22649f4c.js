@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-1ce6f039","path":"/docs/base/vue/Vuepash.html","title":"Vue路径传值","lang":"en-US","frontmatter":{},"headers":[{"level":2,"title":"显式","slug":"显式","link":"#显式","children":[]},{"level":2,"title":"隐式","slug":"隐式","link":"#隐式","children":[]}],"git":{},"filePathRelative":"docs/base/vue/Vuepash.md"}');export{e as data};

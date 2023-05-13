@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-4150057e","path":"/docs/base/vue/conpomentphone.html","title":"Vue的组件通信","lang":"en-US","frontmatter":{},"headers":[],"git":{},"filePathRelative":"docs/base/vue/conpomentphone.md"}');export{e as data};

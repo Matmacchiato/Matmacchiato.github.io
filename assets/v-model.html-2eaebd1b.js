@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-ca9fc95a","path":"/docs/base/vue/v-model.html","title":"v-model是谁的语法糖","lang":"en-US","frontmatter":{},"headers":[],"git":{},"filePathRelative":"docs/base/vue/v-model.md"}');export{e as data};

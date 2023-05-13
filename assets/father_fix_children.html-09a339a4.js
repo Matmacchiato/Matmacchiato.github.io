@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-7ad3bbb9","path":"/docs/base/vue/father_fix_children.html","title":"Vue的子组件如何调用父组件的方法？","lang":"en-US","frontmatter":{},"headers":[],"git":{},"filePathRelative":"docs/base/vue/father_fix_children.md"}');export{e as data};

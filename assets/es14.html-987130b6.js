@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-33f2ebf4","path":"/docs/es6/es14.html","title":"十四、class类的用法","lang":"en-US","frontmatter":{},"headers":[{"level":2,"title":"1、类的继承extends","slug":"_1、类的继承extends","link":"#_1、类的继承extends","children":[]}],"git":{},"filePathRelative":"docs/es6/es14.md"}');export{e as data};

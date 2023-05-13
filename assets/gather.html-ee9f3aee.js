@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-68fecff2","path":"/docs/base/vue/gather.html","title":"路由导航守卫有哪些","lang":"en-US","frontmatter":{},"headers":[],"git":{},"filePathRelative":"docs/base/vue/gather.md"}');export{e as data};

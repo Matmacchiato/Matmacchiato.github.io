@@ -1,0 +1,1 @@
+const a=JSON.parse('{"key":"v-0b79b516","path":"/docs/ajax/ajax7.html","title":"八、fetch发送ajax请求","lang":"en-US","frontmatter":{},"headers":[],"git":{},"filePathRelative":"docs/ajax/ajax7.md"}');export{a as data};

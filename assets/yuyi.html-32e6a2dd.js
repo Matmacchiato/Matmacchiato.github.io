@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-63e250ec","path":"/docs/base/html/yuyi.html","title":"HTML语义化的理解","lang":"en-US","frontmatter":{},"headers":[],"git":{},"filePathRelative":"docs/base/html/yuyi.md"}');export{e as data};

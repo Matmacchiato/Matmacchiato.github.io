@@ -1,0 +1,1 @@
+const a=JSON.parse('{"key":"v-a4d6ba5c","path":"/docs/base/css/zhuzi.html","title":"div垂直居中的方法","lang":"en-US","frontmatter":{},"headers":[],"git":{},"filePathRelative":"docs/base/css/zhuzi.md"}');export{a as data};

@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-0f1f21d8","path":"/docs/base/vue/vuexsz.html","title":"vue双向绑定的原理","lang":"en-US","frontmatter":{},"headers":[],"git":{},"filePathRelative":"docs/base/vue/vuexsz.md"}');export{e as data};

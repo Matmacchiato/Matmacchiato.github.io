@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-f3a004d2","path":"/docs/base/vue/queryparams.html","title":"Vue中query与params两种传参的区别","lang":"en-US","frontmatter":{},"headers":[],"git":{},"filePathRelative":"docs/base/vue/queryparams.md"}');export{e as data};

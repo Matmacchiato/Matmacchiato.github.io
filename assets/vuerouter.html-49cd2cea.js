@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-9b979d94","path":"/docs/base/vue/vuerouter.html","title":"vue动态路由","lang":"en-US","frontmatter":{},"headers":[],"git":{},"filePathRelative":"docs/base/vue/vuerouter.md"}');export{e as data};
